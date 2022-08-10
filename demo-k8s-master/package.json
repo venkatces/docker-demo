@@ -1,0 +1,15 @@
+{
+  "name": "K8s-deep-dive",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Demo app for Visa",
+  "main": "app.js",
+  "author": "Venkat Reddy",
+  "license": "You'd have to be mad to use this :-D",
+  "dependencies": {
+    "express": "4.16.4",
+    "pug": "2.0.3",
+    "mocha": "5.2.0",
+    "supertest": "3.3.0"
+  }
+}
